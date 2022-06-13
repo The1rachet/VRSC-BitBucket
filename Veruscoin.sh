@@ -1,0 +1,2 @@
+#veruscoin
+sudo apt update
